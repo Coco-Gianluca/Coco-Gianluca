@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mr-Lucxa
+- 👋 Hi, I’m @Coco-Gianluca
 - 👀 I’m interested in Soccer, IT,
 - 🌱 I’m currently learning Java and Swift
 - 💞️ I’m looking to collaborate with everyone :)
