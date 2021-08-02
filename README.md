@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Coco-Gianluca
+- 👋 Hi, I’m @Coco-Gianluca :it:
 - 👀 I’m interested in Soccer, IT,
 - 🌱 I’m currently learning Java and Swift
 - 💞️ I’m looking to collaborate with everyone :)
-- 📫 How to reach me 
+- 📫 How to reach me https://www.linkedin.com/in/gianluca-coco/
+- 
 
 <!---
 Mr-Lucxa/Mr-Lucxa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
